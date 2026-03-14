@@ -1,19 +1,23 @@
 # Oasis_Infobyte_Task3
 Housing Price Prediction ( Linear Regression )
-Objective
-To analyze the dataset using Python and generate meaningful insights through exploratory data analysis and visualizations.
 
-Steps Performed
-Loaded the dataset in Google Colab
+🎯 Objective:
+Conduct exploratory data analysis (EDA) using Python to uncover meaningful insights and highlight patterns, trends, and relationships within the dataset through visualizations.
 
-Explored data distribution and key features
+🛠️ Steps Taken:
+- Loaded dataset into Google Colab for interactive analysis.
+- Explored data distribution and examined key features.
+- Built visualizations with Matplotlib and Seaborn to identify trends, correlations, and anomalies.
+- Summarized insights and observations based on graphs and statistical checks.
+ 
+⚙️ Tools & Technologies:
+- Google Colab for cloud‑based execution
+- Python for scripting and analysis
+- Pandas for data manipulation
+- NumPy for numerical operations
+ 
+✅ Outcome:
+A set of clear, visual insights that reveal important trends and patterns, enabling a deeper understanding of the dataset and supporting data‑driven decision making.
+tplotlib & Seaborn for data visualization
 
-Created visualizations to identify trends and patterns
 
-Summarized insights based on the graphs and observations
-
-Tools Used
-Google Colab, Python, Pandas, NumPy, Matplotlib, Seaborn
-
-Outcome
-A set of clear visual insights that highlight important trends and support better understanding of the dataset
